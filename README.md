@@ -1,4 +1,4 @@
-# music-VAE
+## music-VAE
 
 La premiere fois : 
 * creer un dossier data, avec dedans :
@@ -6,6 +6,7 @@ La premiere fois :
 * * les dossiers lmd_aligned et lmd_matched_h5
 * faire tourner les codes dans l'ordre suivant : tutorial-dataset, most-used-instruments, instruments-midi-to-csv, data-preprocessor, model-and-training
 
+## infos, inspiration de base
 
  **Original idea**
 https://www.jeremyjordan.me/variational-autoencoders/
