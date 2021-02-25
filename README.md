@@ -8,7 +8,7 @@ La premiere fois :
 
 ## données utilisées
 
-lmd-aligned du Lahk MIDI Dataset, ainsi que les metadata du Million Songs Dataset
+lmd-aligned du Lahk MIDI Dataset, ainsi que les metadata du Million Songs Dataset (6GB + 82 GB)
 
 ## infos, inspiration de base
 
