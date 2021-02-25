@@ -25,7 +25,7 @@ https://www.kaggle.com/basu369victor/generate-music-with-variational-autoencoder
 **Auto-encoder treated with midi files**
 Github : https://github.com/vikrosj/music-autoencoders
 https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
-With Pytorch : https://github.com/Variational-Autoencoder/MusicVAE (C'EST DE CE GITHUB QU'ON ETE RECUPERER LES CODES, ATTENTION TOUTEFOIS IL Y A DES CHANGEMENTS : mauvaise version python, arborescence mystique etc)
+With Pytorch : https://github.com/Variational-Autoencoder/MusicVAE (C'EST DE CE GITHUB QU'ON ETE RECUPERE LES CODES, ATTENTION TOUTEFOIS IL Y A DES CHANGEMENTS : mauvaise version python, arborescence mystique etc)
 
 **Related doc on YouTube**
 Project with code : https://www.youtube.com/watch?v=0eTYs4n1LKg&list=LL&index=1&ab_channel=JCOpUntukIndonesia
