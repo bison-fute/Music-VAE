@@ -6,6 +6,10 @@ La premiere fois :
 * * les dossiers lmd_aligned et lmd_matched_h5
 * faire tourner les codes dans l'ordre suivant : tutorial-dataset, most-used-instruments, instruments-midi-to-csv, data-preprocessor, model-and-training
 
+## données utilisées
+
+lmd-aligned du Lahk MIDI Dataset, ainsi que les metadata du Million Songs Dataset
+
 ## infos, inspiration de base
 
  **Original idea**
