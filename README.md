@@ -1,14 +1,10 @@
-## music-VAE
+# music-VAE
 
 La premiere fois : 
-* creer un dossier data, avec dedans :
-* * le fichier match_scores.json 
-* * les dossiers lmd_aligned et lmd_matched_h5
-* faire tourner les codes dans l'ordre suivant : tutorial-dataset, most-used-instruments, instruments-midi-to-csv, data-preprocessor, model-and-training
+* creer un dossier "data", avec dedans le dossier lmd_aligned (si CSV pas déjà récupérer).
+* creer un dossier "midi" vide, dans lequel seront écrits les CSV (si pas déjà récupérer).
 
-## données utilisées
-
-lmd-aligned du Lahk MIDI Dataset, ainsi que les metadata du Million Songs Dataset (6GB + 82 GB)
+**données utilisées :** lmd-aligned du Lahk MIDI Dataset
 
 ## infos, inspiration de base
 
