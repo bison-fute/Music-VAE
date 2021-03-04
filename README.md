@@ -31,3 +31,7 @@ With Pytorch : https://github.com/Variational-Autoencoder/MusicVAE (C'EST DE CE 
 Project with code : https://www.youtube.com/watch?v=0eTYs4n1LKg&list=LL&index=1&ab_channel=JCOpUntukIndonesia
 Animated midi file : https://www.youtube.com/watch?v=gGqrVAe0_Ek&list=LL&index=5&ab_channel=JanAbraham
 Project : https://www.youtube.com/watch?v=aOsET8KapQQ&list=LL&index=4&ab_channel=KieCodes
+
+## A faire
+
+Mettre le VAE dans une classe, tester l'influence de ses paramètres, tester l'architecture avec les RNNs, coder la concatenation des extraits audios en fondus.
