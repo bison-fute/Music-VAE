@@ -13,7 +13,7 @@ https://www.jeremyjordan.me/variational-autoencoders/
 https://magenta.tensorflow.org/music-vae
 github: https://github.com/magenta/magenta/tree/master/magenta/models/music_vae
 
-**A detailled notebook on the dataset** **A detailled notebook on the dataset **A detailled notebook on the dataset
+**A detailled notebook on the dataset**
 https://nbviewer.jupyter.org/github/craffel/midi-dataset/blob/master/Tutorial.ipynb 
 
 **Dataset**
