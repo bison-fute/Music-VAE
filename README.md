@@ -1,7 +1,7 @@
 # Music VAE
 
 The first time : 
-* create a "data" folder, with in it the lmd_aligned folder (if CSV not already recovered).
+* create a "data" folder, with in it the lmd_aligned folder (if piano roll CSV not already downloaded).
 * create an empty "midi" folder, in which will be written the CSV (if not already recovered).
 
 **data used :** lmd-aligned from the Lahk MIDI Dataset
