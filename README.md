@@ -1,4 +1,4 @@
-# music-VAE
+# Music VAE
 
 The first time : 
 * create a "data" folder, with in it the lmd_aligned folder (if CSV not already recovered).
@@ -6,7 +6,7 @@ The first time :
 
 **data used :** lmd-aligned from the Lahk MIDI Dataset
 
-## info, basic inspiration
+## Information, basic inspiration
 
  **Original idea
 https://www.jeremyjordan.me/variational-autoencoders/
