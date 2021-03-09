@@ -8,7 +8,7 @@ The first time :
 
 ## Information, basic inspiration
 
- **Original idea
+ **Original idea**
 https://www.jeremyjordan.me/variational-autoencoders/
 https://magenta.tensorflow.org/music-vae
 github: https://github.com/magenta/magenta/tree/master/magenta/models/music_vae
